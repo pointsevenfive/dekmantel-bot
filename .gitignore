@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+creds.py
+*.pyc
+geckodriver.exe
+geckodriver.log
+run_bot.bat
